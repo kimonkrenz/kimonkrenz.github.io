@@ -195,12 +195,12 @@
     }
     .divide {border-bottom: 1px solid var(--border); }
     .ttbl { 
-      grid-template-columns: 12rem auto;
+      grid-template-columns: 7rem auto;
       display: grid; 
       padding-right: 5%; }
 
     .rtbl { 
-      grid-template-columns: 12rem auto auto;
+      grid-template-columns: 7rem auto auto;
       display: grid; 
       padding-right: 5%; }
 
@@ -235,7 +235,7 @@
       display: block;
     }
     .dropdown { margin-top: 0; }
-    .ralign { padding-left: 12rem; }
+    .ralign { padding-left: 7rem; }
   
   }
   /* For devices larger than 950px */
