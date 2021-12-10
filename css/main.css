@@ -581,10 +581,18 @@
   
   /* Larger than mobile */
   @media (min-width: 400px) {
+  p {
+    font-size: calc(2rem*0.8);
+    letter-spacing: calc(0.05rem*0.8); 
+  }
   }
   
   /* Larger than phablet (also point when grid becomes active) */
   @media (min-width: 550px) {
+  p {
+    font-size: calc(2rem*0.8);
+    letter-spacing: calc(0.05rem*0.8); 
+  }
   }
   
   /* Larger than tablet */
