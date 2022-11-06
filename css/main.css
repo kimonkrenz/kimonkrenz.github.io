@@ -619,7 +619,7 @@
   }
   
   /* Larger than desktop */
-  @media (min-width: 1200px) {
+  @media (min-width: 1300px) {
     .cheight { min-height: calc(100vh - 16.075rem); }
     .nav { padding-top: calc(2.25rem*0.85); }
     .navh { height: calc(9.5rem*0.85); }
@@ -638,7 +638,7 @@
   }
   
   /* Larger than Desktop HD */
-  @media (min-width: 1400px) {
+  @media (min-width: 1600px) {
     .cheight { min-height: calc(100vh - 17.5rem); }
     .nav { padding-top: 2.25rem; }
     .navh { height: 9.5rem; }
